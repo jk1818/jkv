@@ -23,7 +23,7 @@ jobs:
       - name: 测试组播源
         run: |
           cd $GITHUB_WORKSPACE
-          bash ./zubo.sh
+          bash tools/zubo.sh
           time=$(date +%Y/%m/%d)
           echo "浙江频道 $time 更新,#genre#" > zubo.txt
           cat txt/浙江.txt >> zubo.txt
@@ -36,22 +36,4 @@ jobs:
           git config --local user.name "GitHub Action"
           git add .
           git commit -m "更新组播源"
-#          git push
-
-      - name: Push To Gitee
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GE_TOKEN }}
-          repository: ${{ secrets.GE_PATH }}
-          directory: .
-          branch: iptv
-          force: true
-          github_url: https://gitee.com
-
-      - name: Push To Github
-        uses: ad-m/github-push-action@master
-        with:
-          github_token: ${{ secrets.GH_TOKEN }}
-          repository: ${{ secrets.GH_PATH }}
-          directory: .
-          force: true
+          git push
