@@ -81,5 +81,6 @@ jobs:
           
           # 提交删除
           git add txt/
+          git add .txt
           git commit -m "Remove synchronized files" || echo "No files to delete"
           git push
