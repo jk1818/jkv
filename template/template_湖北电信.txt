@@ -1,3 +1,7 @@
+北京卫视,http://ipipip/rtp/239.254.96.141:8920
+CHC动作电影,http://ipipip/udp/239.69.1.242:11094
+CHC高清电影,http://ipipip/udp/239.69.1.241:11088
+CHC家庭影院,http://ipipip/udp/239.69.1.243:11100
 湖北公共新闻,http://ipipip/rtp/239.69.1.40:9880
 湖北经视频道,http://ipipip/rtp/239.69.1.41:9886
 湖北综合频道,http://ipipip/rtp/239.69.1.42:9892
@@ -33,9 +37,6 @@ CCTV-16奥林匹克4K,http://ipipip/rtp/239.69.1.249:11136
 CCTV-17农业农村,http://ipipip/rtp/239.69.1.152:10548
 CCTV-5+体育赛事,http://ipipip/rtp/239.254.96.234:9484
 CCTV 4K,http://ipipip/rtp/239.69.1.12:9712
-CHC-影迷电影,http://ipipip/rtp/239.69.1.241:11088
-CHC-动作电影,http://ipipip/rtp/239.69.1.242:11094
-CHC-家庭影院,http://ipipip/rtp/239.69.1.243:11100
 CCTV-第一剧场,http://ipipip/rtp/239.69.1.74:10084
 CCTV-兵器科技,http://ipipip/rtp/239.69.1.79:10114
 CCTV-风云足球,http://ipipip/rtp/239.69.1.81:10126
@@ -49,7 +50,6 @@ CCTV-4中文国际 美洲,http://ipipip/rtp/239.69.1.232:11034
 深圳卫视,http://ipipip/rtp/239.254.96.137:8896
 湖南卫视,http://ipipip/rtp/239.254.96.139:8908
 广东卫视,http://ipipip/rtp/239.254.96.140:8914
-北京卫视,http://ipipip/rtp/239.254.96.141:8920
 东方卫视,http://ipipip/rtp/239.254.96.142:8926
 浙江卫视,http://ipipip/rtp/239.254.96.143:8932
 江苏卫视,http://ipipip/rtp/239.254.96.144:8938

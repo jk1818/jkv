@@ -32,7 +32,6 @@ CCTV-2财经,http://ipipip/rtp/238.255.2.11:5999
 CCTV-3综艺,http://ipipip/rtp/238.255.2.133:5999
 CCTV-4中文国际,http://ipipip/rtp/238.255.2.92:5999
 CCTV-5体育,http://ipipip/rtp/238.255.2.134:5999
-CCTV-5体育,http://ipipip/rtp/238.255.2.134:5999
 CCTV-5+体育赛事,http://ipipip/rtp/238.255.2.185:5999
 CCTV-6电影,http://ipipip/rtp/238.255.2.135:5999
 CCTV-7国防军事,http://ipipip/rtp/238.255.2.12:5999

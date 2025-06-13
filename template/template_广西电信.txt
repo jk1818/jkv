@@ -1,3 +1,5 @@
+重庆卫视,http://ipipip/udp/239.81.0.47:4056
+西藏卫视,http://ipipip/udp/239.81.0.55:4056
 广西卫视,http://ipipip/udp/239.81.0.107:4056
 广西综艺旅游,http://ipipip/udp/239.81.0.214:4056
 广西影视频道,http://ipipip/udp/239.81.0.250:4056
@@ -42,7 +44,6 @@ CCTV-5+体育赛事,http://ipipip/udp/239.81.0.101:4056
 辽宁卫视,http://ipipip/udp/239.81.0.210:4056
 黑龙江卫视,http://ipipip/udp/239.81.0.105:4056
 甘肃卫视,http://ipipip/udp/239.81.0.207:4056
-重庆卫视,http://ipipip/udp/239.81.0.47:4056
 吉林卫视,http://ipipip/udp/239.81.0.58:4056
 陕西卫视,http://ipipip/udp/239.81.0.89:4056
 山西卫视,http://ipipip/udp/239.81.0.49:4056
@@ -51,7 +52,6 @@ CCTV-5+体育赛事,http://ipipip/udp/239.81.0.101:4056
 内蒙古卫视,http://ipipip/udp/239.81.0.54:4056
 青海卫视,http://ipipip/udp/239.81.0.53:4056
 新疆卫视,http://ipipip/udp/239.81.0.46:4056
-西藏卫视,http://ipipip/udp/239.81.0.55:4056
 云南卫视,http://ipipip/udp/239.81.0.45:4056
 海南卫视,http://ipipip/udp/239.81.0.48:4056
 三沙卫视,http://ipipip/udp/239.81.0.242:4056

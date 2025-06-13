@@ -1,3 +1,4 @@
+CCTV11,http://ipipip/udp/238.125.4.83:5140
 新疆卫视,http://ipipip/udp/238.125.3.174:5140
 新疆卫视2,http://ipipip/udp/238.125.3.175:5140
 新疆卫视3,http://ipipip/udp/238.125.3.176:5140

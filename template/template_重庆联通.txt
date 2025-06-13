@@ -1,3 +1,5 @@
+CCTV2,http://ipipip/udp/225.0.4.132:7980
+深圳卫视,http://ipipip/udp/225.0.4.202:7980
 重庆卫视,http://ipipip/udp/225.0.4.187:7980
 重庆新闻频道,http://ipipip/udp/225.0.4.188:7980
 重庆社会与法,http://ipipip/udp/225.0.4.190:7980
@@ -10,7 +12,6 @@
 重庆新农村频道,http://ipipip/udp/225.0.4.189:7980
 重庆移动频道,http://ipipip/rtp/225.0.4.68:7980
 CCTV-1综合,http://ipipip/udp/225.0.4.74:7980
-CCTV-2财经,http://ipipip/udp/225.0.4.132:7980
 CCTV-3综艺,http://ipipip/udp/225.0.4.142:7980
 CCTV-4中文国际,http://ipipip/udp/225.0.4.176:7980
 CCTV-5体育,http://ipipip/udp/225.0.4.143:7980
@@ -40,7 +41,6 @@ CCTV-17农业农村,http://ipipip/udp/225.0.4.179:7980
 山东卫视,http://ipipip/udp/225.0.4.199:7980
 东南卫视,http://ipipip/udp/225.0.4.200:7980
 黑龙江卫视,http://ipipip/udp/225.0.4.201:7980
-深圳卫视,http://ipipip/udp/225.0.4.202:7980
 江西卫视,http://ipipip/udp/225.0.4.203:7980
 四川卫视,http://ipipip/udp/225.0.4.204:7980
 华数电影,http://ipipip/udp/225.0.4.50:7980
