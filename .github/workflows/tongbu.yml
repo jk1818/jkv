@@ -48,7 +48,7 @@ jobs:
 
       - name: Clone private repository
         run: |
-          git clone https://${{ secrets.PRIVATE_REPO_TOKEN }}@github.com/168xb/zubo.git private-repo
+          git clone https://${{ secrets.PRIVATE_REPO_TOKEN }}@github.com/jk1818/zb.git private-repo
         env:
           GIT_ASKPASS: echo
 
