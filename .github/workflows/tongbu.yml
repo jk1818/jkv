@@ -70,17 +70,16 @@ jobs:
           git commit -m "自动同步文件 from ${{ github.repository }} @ ${{ github.sha }}"
           git push origin main
 
-      - name: Remove original files
+      - name: Remove files
         if: env.FILES_COUNT != '0'
         run: |
-          # 删除文件
+          # 删除txt文件夹里的文件
           rm -f txt/*.txt
-          rm -f 组播_*.txt
-          rm -f zubo_*.txt
-          rm -f zubo_*.m3u
+          
+          # 删除仓库根目录下的特定文件
+          rm -f 组播_*.txt zubo_*.txt zubo_*.m3u
           
           # 提交删除
-          git add txt/
-          git add .txt
-          git commit -m "Remove synchronized files" || echo "No files to delete"
+          git add txt/ 组播_*.txt zubo_*.txt zubo_*.m3u || echo "No files to add"
+          git commit -m "Remove synchronized files" || echo "No changes to commit"
           git push
