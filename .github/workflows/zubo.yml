@@ -24,14 +24,10 @@ jobs:
         run: |
           pip install -r requirements.txt
 
-      - name: 创建必要目录
-        run: |
-          cd $GITHUB_WORKSPACE
-          rm -f 组播_*.txt
-
       - name: 获取组播源
         run: |
-          mkdir -p ${{ github.workspace }}/txt
+          cd $GITHUB_WORKSPACE
+          python tools/zubo.py
 
       - name: 测试组播源
         run: |
