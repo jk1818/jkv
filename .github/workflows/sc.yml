@@ -23,7 +23,7 @@ jobs:
           changed_files=$(git diff --name-only HEAD^ HEAD)
           echo "所有变更文件: $changed_files"
           
-          if echo "$changed_files" | grep -qE 'vv/zubo_.*\.txt'; then
+          if echo "$changed_files" | grep -qE 'txt/.*\.txt'; then
             echo "检测到 zubo 文件变更"
             echo "match=true" >> $GITHUB_OUTPUT
           else
@@ -55,12 +55,12 @@ jobs:
       - name: Copy files
         run: |
           echo "复制文件:"
-          ls vv/zubo_*.txt || echo "无匹配文件"
+          ls txt/*.txt || echo "无匹配文件"
           mkdir -p private-repo/lv
-          cp vv/zubo_*.txt private-repo/lv/ || echo "复制完成"
+          cp txt/*.txt private-repo/lv/ || echo "复制完成"
           
           # 记录文件计数
-          echo "FILES_COUNT=$(ls vv/zubo_*.txt 2>/dev/null | wc -l)" >> $GITHUB_ENV
+          echo "FILES_COUNT=$(ls txt/*.txt 2>/dev/null | wc -l)" >> $GITHUB_ENV
 
       - name: Commit to private repo
         if: env.FILES_COUNT != '0'
@@ -74,9 +74,12 @@ jobs:
         if: env.FILES_COUNT != '0'
         run: |
           # 删除文件
-          rm -f vv/zubo_*.txt
+          rm -f txt/*.txt
+          rm -f 组播_*.txt
+          rm -f zubo_*.txt
+          rm -f zubo_*.m3u
           
           # 提交删除
-          git add vv/
+          git add txt/
           git commit -m "Remove synchronized files" || echo "No files to delete"
           git push
