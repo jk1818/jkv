@@ -24,6 +24,11 @@ jobs:
         run: |
           pip install -r requirements.txt
 
+      - name: 创建必要目录
+        run: |
+          mkdir -p ${{ github.workspace }}/txt
+          echo "必要目录已创建"
+
       - name: 获取组播源
         run: |
           cd $GITHUB_WORKSPACE
