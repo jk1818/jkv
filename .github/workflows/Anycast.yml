@@ -1,4 +1,4 @@
-name: zubo
+name: Multicast Detection
 
 on:
   schedule:
