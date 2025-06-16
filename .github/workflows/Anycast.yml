@@ -57,6 +57,7 @@ jobs:
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          git pull --rebase
           git commit -m "Update IP files"
           git push
 
@@ -69,9 +70,7 @@ jobs:
 
       - name: Copy TXT files to target repository
         run: |
-          # Create lv directory if it doesn't exist
           mkdir -p target-repo/lv
-          # Copy all txt files from source to target
           cp -r $GITHUB_WORKSPACE/txt/* target-repo/lv/
           echo "Files copied to target repository"
 
@@ -80,6 +79,7 @@ jobs:
           cd target-repo
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
+          git pull --rebase
           git add lv/
           git commit -m "Update multicast source files"
           git push
