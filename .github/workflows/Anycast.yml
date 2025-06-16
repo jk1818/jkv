@@ -10,26 +10,25 @@ jobs:
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout Repository
+      - name: Checkout source repository
         uses: actions/checkout@v3
         with:
-          fetch-depth: 0   
+          fetch-depth: 0
       
-      - name: Set up Python
+      - name: Set up Python environment
         uses: actions/setup-python@v4
         with:
-          python-version: 3.11
+          python-version: "3.11"
 
       - name: Install dependencies
-        run: |
-          pip install -r requirements.txt
+        run: pip install -r requirements.txt
 
       - name: Create necessary directories
         run: |
           mkdir -p ${{ github.workspace }}/txt
-          echo "Directory created"
+          echo "Directories created"
 
-      - name: Obtain multicast stream
+      - name: Fetch multicast streams
         run: |
           cd $GITHUB_WORKSPACE
           python tools/multicast.py
@@ -52,14 +51,21 @@ jobs:
             echo "changes=true" >> $GITHUB_OUTPUT
           fi
 
-      - name: Commit and push IP changes to source repository
+      - name: Commit and push to source repository
         if: steps.ip-changes.outputs.changes == 'true'
         run: |
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git pull --rebase
+          # Reset all unstaged changes
+          git reset --hard
+          # Fetch latest changes
+          git fetch origin
+          # Reset to remote branch
+          git reset --hard origin/main
+          # Add files to commit
+          git add ip/
           git commit -m "Update IP files"
-          git push
+          git push origin main
 
       - name: Checkout target repository
         uses: actions/checkout@v3
@@ -67,19 +73,26 @@ jobs:
           repository: jk1818/zb
           token: ${{ secrets.PRIVATE_REPO_TOKEN }}
           path: target-repo
+          ref: main
 
       - name: Copy TXT files to target repository
         run: |
           mkdir -p target-repo/lv
           cp -r $GITHUB_WORKSPACE/txt/* target-repo/lv/
-          echo "Files copied to target repository"
 
       - name: Commit and push to target repository
         run: |
           cd target-repo
           git config --local user.email "action@github.com"
           git config --local user.name "GitHub Action"
-          git pull --rebase
+          # Reset all changes
+          git reset --hard
+          # Fetch latest changes
+          git fetch origin
+          # Reset to remote branch
+          git reset --hard origin/main
+          # Copy and add files
+          cp -r $GITHUB_WORKSPACE/txt/* lv/
           git add lv/
           git commit -m "Update multicast source files"
-          git push
+          git push origin main
