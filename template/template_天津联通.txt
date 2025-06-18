@@ -1,10 +1,9 @@
-CCTV5+,http://ipipip/udp/225.1.1.121:5002
-CCTV14,http://ipipip/udp/225.1.1.144:5002
 CCTV-1,http://ipipip/udp/225.1.1.120:5002
 CCTV-2,http://ipipip/udp/225.1.1.133:5002
 CCTV-3,http://ipipip/udp/225.1.1.158:5002
 CCTV-4,http://ipipip/udp/225.1.1.150:5002
 CCTV-5,http://ipipip/udp/225.1.1.160:5002
+CCTV-5+,http://ipipip/udp/225.1.1.121:5002
 CCTV-6,http://ipipip/udp/225.1.1.195:5002
 CCTV-7,http://ipipip/udp/225.1.1.138:5002
 CCTV-8,http://ipipip/udp/225.1.1.196:5002
@@ -13,6 +12,7 @@ CCTV-10,http://ipipip/udp/225.1.1.140:5002
 CCTV-11,http://ipipip/udp/225.1.2.192:5002
 CCTV-12,http://ipipip/udp/225.1.1.142:5002
 CCTV-13,http://ipipip/udp/225.1.2.193:5002
+CCTV-14,http://ipipip/udp/225.1.1.144:5002
 CCTV-15,http://ipipip/udp/225.1.2.194:5002
 CCTV-16,http://ipipip/udp/225.1.2.237:5002
 CCTV-17,http://ipipip/udp/225.1.2.52:5002
