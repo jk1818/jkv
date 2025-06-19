@@ -31,7 +31,6 @@ CCTV-17,http://ipipip/udp/239.49.8.132:6000
 青海卫视,http://ipipip/udp/239.49.0.69:8544
 新疆卫视,http://ipipip/udp/239.49.1.239:6000
 西藏卫视,http://ipipip/udp/239.49.1.139:6000
-三沙卫视,http://ipipip/udp/239.49.0.167:8000
 江苏卫视,http://ipipip/rtp/239.49.8.138:6000
 江苏城市频道,http://ipipip/rtp/239.49.8.107:8000
 江苏综艺频道,http://ipipip/rtp/239.49.8.108:8000
