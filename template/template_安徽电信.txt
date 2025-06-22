@@ -1,3 +1,4 @@
+江西卫视,http://ipipip/rtp/238.1.78.26:6136
 安徽卫视,http://ipipip/rtp/238.1.79.27:4328
 安徽经济生活,http://ipipip/rtp/238.1.79.44:4464
 安徽影视频道,http://ipipip/rtp/238.1.79.42:4448
@@ -49,7 +50,6 @@ CCTV央视台球,http://ipipip/rtp/238.1.79.59:4608
 山东卫视,http://ipipip/rtp/238.1.78.169:7224
 东南卫视,http://ipipip/rtp/238.1.78.22:6104
 四川卫视,http://ipipip/rtp/238.1.78.30:6168
-江西卫视,http://ipipip/rtp/238.1.78.26:6136
 重庆卫视,http://ipipip/rtp/238.1.78.31:6176
 广东卫视,http://ipipip/rtp/238.1.78.161:7160
 黑龙江卫视,http://ipipip/rtp/238.1.78.159:7144
