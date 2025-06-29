@@ -1,11 +1,4 @@
-厦门卫视,http://ipipip/rtp/239.21.2.6:5002
-甘肃卫视,http://ipipip/rtp/239.21.2.22:5002
-内蒙古卫视,http://ipipip/rtp/239.21.1.41:5002
 山东卫视,http://ipipip/udp/239.21.1.87:5002
-海南卫视,http://ipipip/rtp/239.21.2.14:5002
-新疆卫视,http://ipipip/rtp/239.21.1.45:5002
-西藏卫视,http://ipipip/rtp/239.21.1.46:5002
-三沙卫视,http://ipipip/rtp/239.21.2.9:5002
 山东体育频道,http://ipipip/udp/239.21.1.141:5002
 山东农科频道,http://ipipip/udp/239.21.1.183:5002
 山东少儿频道,http://ipipip/udp/239.21.1.208:5002
@@ -49,7 +42,9 @@ CCTV-5+体育赛事,http://ipipip/udp/239.21.1.142:5002
 河北卫视,http://ipipip/udp/239.21.1.168:5002
 河南卫视,http://ipipip/udp/239.21.2.37:5002
 吉林卫视,http://ipipip/udp/239.21.2.49:5002
+海南卫视,http://ipipip/udp/239.21.2.14:5002
 青海卫视,http://ipipip/udp/239.21.2.51:5002
+甘肃卫视,http://ipipip/udp/239.21.2.22:5002
 贵州卫视,http://ipipip/udp/239.21.1.166:5002
 辽宁卫视,http://ipipip/udp/239.21.1.164:5002
 黑龙江卫视,http://ipipip/udp/239.21.1.28:5002
