@@ -1,3 +1,7 @@
+内蒙古卫视,http://ipipip/rtp/239.45.1.238:5140
+新疆卫视,http://ipipip/rtp/239.45.1.116:5140
+康巴卫视,http://ipipip/rtp/239.45.1.251:5140
+三沙卫视,http://ipipip/rtp/239.45.1.82:5140
 东方卫视,http://ipipip/rtp/239.45.3.146:5140
 新闻综合,http://ipipip/rtp/239.45.3.209:5140
 都市频道,http://ipipip/rtp/239.45.3.236:5140
@@ -67,11 +71,7 @@ CCTV-17农业农村,http://ipipip/rtp/239.45.3.52:5140
 宁夏卫视,http://ipipip/rtp/239.45.1.213:5140
 陕西卫视,http://ipipip/rtp/239.45.1.232:5140
 甘肃卫视,http://ipipip/rtp/239.45.1.234:5140
-内蒙古卫视,http://ipipip/rtp/239.45.1.238:5140
-新疆卫视,http://ipipip/rtp/239.45.1.116:5140
 兵团卫视,http://ipipip/rtp/239.45.1.117:5140
-三沙卫视,http://ipipip/rtp/239.45.1.82:5140
-康巴卫视,http://ipipip/rtp/239.45.1.251:5140
 金鹰卡通,http://ipipip/rtp/239.45.0.38:5140
 金鹰纪实,http://ipipip/rtp/239.45.1.45:5140
 北京卡酷少儿,http://ipipip/rtp/239.45.0.8:5140
