@@ -2,7 +2,6 @@ CCTV1,http://ipipip/udp/225.1.8.1:8008
 CCTV2,http://ipipip/udp/225.1.8.2:8084
 CCTV3,http://ipipip/udp/225.1.8.88:8000
 CCTV4,http://ipipip/udp/225.1.8.4:8092
-CCTV4,http://ipipip/udp/225.1.1.150:5002
 CCTV5,http://ipipip/udp/225.1.8.89:8000
 CCTV5,http://ipipip/udp/225.1.8.20:8004
 CCTV6,http://ipipip/udp/225.1.8.84:8000
@@ -12,7 +11,6 @@ CCTV9,http://ipipip/udp/225.1.8.9:8112
 CCTV10,http://ipipip/udp/225.1.8.10:8116
 CCTV11,http://ipipip/udp/225.1.8.73:8120
 CCTV12,http://ipipip/udp/225.1.8.12:8124
-CCTV12,http://ipipip/udp/225.1.1.142:5002
 CCTV13,http://ipipip/udp/225.1.8.168:8130
 CCTV14,http://ipipip/udp/225.1.8.14:8132
 CCTV15,http://ipipip/udp/225.1.8.74:8136
@@ -20,6 +18,7 @@ CCTV17,http://ipipip/udp/225.1.8.17:8144
 CCTV-1,http://ipipip/udp/225.1.1.120:5002
 CCTV-2,http://ipipip/udp/225.1.1.133:5002
 CCTV-3,http://ipipip/udp/225.1.1.158:5002
+CCTV-4,http://ipipip/udp/225.1.1.150:5002
 CCTV-5,http://ipipip/udp/225.1.1.160:5002
 CCTV-5+,http://ipipip/udp/225.1.1.121:5002
 CCTV-6,http://ipipip/udp/225.1.1.195:5002
@@ -27,6 +26,7 @@ CCTV-7,http://ipipip/udp/225.1.1.138:5002
 CCTV-8,http://ipipip/udp/225.1.1.196:5002
 CCTV-9,http://ipipip/udp/225.1.1.119:5002
 CCTV-10,http://ipipip/udp/225.1.1.140:5002
+CCTV-12,http://ipipip/udp/225.1.1.142:5002
 CCTV-14,http://ipipip/udp/225.1.1.144:5002
 湖南卫视,http://ipipip/udp/225.1.1.114:5002
 湖南卫视,http://ipipip/udp/225.1.8.41:8012
