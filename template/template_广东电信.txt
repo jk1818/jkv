@@ -45,8 +45,8 @@ CCTV-14高清,http://ipipip/udp/239.77.1.171:5146
 东方卫视,http://ipipip/udp/239.77.1.218:5146
 北京卫视,http://ipipip/udp/239.77.0.51:5146
 北京卫视,http://ipipip/udp/239.77.1.14:5146
-北京卫视,http://ipipip/udp/239.77.1.151:5146
 北京卫视,http://ipipip/udp/239.77.1.4:5146
+北京卫视,http://ipipip/udp/239.77.1.151:5146
 江苏卫视,http://ipipip/udp/239.77.0.48:5146
 江苏卫视,http://ipipip/udp/239.77.1.40:5146
 江苏卫视,http://ipipip/udp/239.77.1.18:5146
