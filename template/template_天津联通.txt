@@ -1,6 +1,6 @@
+CCTV3,http://ipipip/udp/225.1.1.158:5002
 CCTV-1,http://ipipip/udp/225.1.1.120:5002
 CCTV-2,http://ipipip/udp/225.1.1.133:5002
-CCTV-3,http://ipipip/udp/225.1.1.158:5002
 CCTV-4,http://ipipip/udp/225.1.1.150:5002
 CCTV-5,http://ipipip/udp/225.1.1.160:5002
 CCTV-5+,http://ipipip/udp/225.1.1.121:5002
