@@ -10,6 +10,7 @@ CCTV8,http://ipipip/udp/225.1.8.85:8000
 CCTV9,http://ipipip/udp/225.1.8.9:8112
 CCTV10,http://ipipip/udp/225.1.8.10:8116
 CCTV11,http://ipipip/udp/225.1.8.73:8120
+CCTV11,http://ipipip/udp/225.1.1.22:5002
 CCTV12,http://ipipip/udp/225.1.8.12:8124
 CCTV13,http://ipipip/udp/225.1.8.168:8130
 CCTV14,http://ipipip/udp/225.1.8.14:8132
