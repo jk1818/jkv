@@ -1,4 +1,3 @@
-CCTV1,http://ipipip/rtp/226.0.2.153:9136
 CCTV3,http://ipipip/rtp/226.0.2.208:9576
 CCTV4,http://ipipip/rtp/226.0.2.156:9160
 CCTV5+,http://ipipip/rtp/226.0.2.168:9256
@@ -11,6 +10,7 @@ CCTV16,http://ipipip/rtp/226.0.2.169:9264
 山西影视频道,http://ipipip/rtp/226.0.2.237:9808
 山西社会与法治,http://ipipip/rtp/226.0.2.238:9816
 山西文体生活,http://ipipip/rtp/226.0.2.16:8040
+CCTV-1综合,http://ipipip/rtp/226.0.2.153:9136
 CCTV-2财经,http://ipipip/rtp/226.0.2.154:9144
 CCTV-5体育,http://ipipip/rtp/226.0.2.209:9584
 CCTV-6电影,http://ipipip/rtp/226.0.2.210:9592
