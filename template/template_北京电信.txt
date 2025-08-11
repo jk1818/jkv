@@ -14,7 +14,6 @@ CCTV12,http://ipipip/udp/225.1.8.12:8124
 CCTV13,http://ipipip/udp/225.1.8.168:8130
 CCTV14,http://ipipip/udp/225.1.8.14:8132
 CCTV15,http://ipipip/udp/225.1.8.74:8136
-CCTV15,http://ipipip/udp/225.1.1.26:5002
 CCTV17,http://ipipip/udp/225.1.8.17:8144
 CCTV-1,http://ipipip/udp/225.1.1.120:5002
 CCTV-2,http://ipipip/udp/225.1.1.133:5002
