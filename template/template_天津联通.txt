@@ -39,6 +39,7 @@ CCTV-17,http://ipipip/udp/225.1.2.52:5002
 辽宁卫视,http://ipipip/udp/225.1.1.154:5002
 宁夏卫视,http://ipipip/udp/225.1.1.56:5002
 青海卫视,http://ipipip/udp/225.1.1.54:5002
+山东卫视,http://ipipip/udp/225.1.1.148:5002
 天津卫视,http://ipipip/udp/225.1.1.111:5002
 海南卫视,http://ipipip/udp/225.1.2.82:5002
 新疆卫视,http://ipipip/udp/225.1.1.35:5002
