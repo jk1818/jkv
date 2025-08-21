@@ -1,3 +1,4 @@
+CCTV12,http://ipipip/udp/225.1.1.142:5002
 CCTV-1,http://ipipip/udp/225.1.1.120:5002
 CCTV-2,http://ipipip/udp/225.1.1.133:5002
 CCTV-3,http://ipipip/udp/225.1.1.158:5002
@@ -10,7 +11,6 @@ CCTV-8,http://ipipip/udp/225.1.1.196:5002
 CCTV-9,http://ipipip/udp/225.1.1.119:5002
 CCTV-10,http://ipipip/udp/225.1.1.140:5002
 CCTV-11,http://ipipip/udp/225.1.2.192:5002
-CCTV-12,http://ipipip/udp/225.1.1.142:5002
 CCTV-13,http://ipipip/udp/225.1.2.193:5002
 CCTV-14,http://ipipip/udp/225.1.1.144:5002
 CCTV-15,http://ipipip/udp/225.1.2.194:5002
@@ -39,7 +39,6 @@ CCTV-17,http://ipipip/udp/225.1.2.52:5002
 辽宁卫视,http://ipipip/udp/225.1.1.154:5002
 宁夏卫视,http://ipipip/udp/225.1.1.56:5002
 青海卫视,http://ipipip/udp/225.1.1.54:5002
-山东卫视,http://ipipip/udp/225.1.1.148:5002
 天津卫视,http://ipipip/udp/225.1.1.111:5002
 海南卫视,http://ipipip/udp/225.1.2.82:5002
 新疆卫视,http://ipipip/udp/225.1.1.35:5002
