@@ -68,8 +68,8 @@ CCTV-16高清,http://ipipip/udp/239.77.0.165:5146
 深圳卫视,http://ipipip/rtp/239.77.0.130:5146
 广东卫视,http://ipipip/rtp/239.77.0.2:5146
 广东卫视,http://ipipip/udp/239.77.1.2:5146
-广东卫视,http://ipipip/udp/239.77.1.152:5146
 广东卫视,http://ipipip/udp/239.77.1.19:5146
+广东卫视,http://ipipip/udp/239.77.1.152:5146
 广东卫视,http://ipipip/udp/239.77.0.166:5146
 甘肃卫视,http://ipipip/udp/239.77.0.189:5146
 贵州卫视,http://ipipip/udp/239.77.0.59:5146
