@@ -2,7 +2,6 @@ CCTV4,http://ipipip/rtp/239.69.1.138:10466
 CCTV5,http://ipipip/rtp/239.69.1.123:10376
 CCTV15,http://ipipip/rtp/239.69.1.155:10566
 CCTV16,http://ipipip/rtp/239.69.1.247:11124
-CCTV17,http://ipipip/rtp/239.69.1.152:10548
 北京卫视,http://ipipip/rtp/239.254.96.141:8920
 CHC动作电影,http://ipipip/udp/239.69.1.242:11094
 CHC高清电影,http://ipipip/udp/239.69.1.241:11088
@@ -35,6 +34,7 @@ CCTV-12社会与法,http://ipipip/rtp/239.69.1.106:10274
 CCTV-13新闻,http://ipipip/rtp/239.254.96.161:9040
 CCTV-14少儿,http://ipipip/rtp/239.69.1.107:10280
 CCTV-16奥林匹克4K,http://ipipip/rtp/239.69.1.249:11136
+CCTV-17农业农村,http://ipipip/rtp/239.69.1.152:10548
 CCTV-5+体育赛事,http://ipipip/rtp/239.254.96.234:9484
 CCTV 4K,http://ipipip/rtp/239.69.1.12:9712
 CCTV-第一剧场,http://ipipip/rtp/239.69.1.74:10084
