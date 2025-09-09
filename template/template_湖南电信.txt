@@ -47,8 +47,8 @@ CCTV17,http://ipipip/udp/239.76.245.238:1234
 凤凰资讯,http://ipipip/udp/239.76.253.135:9000
 凤凰资讯,http://ipipip/udp/239.76.246.134:1234
 凤凰资讯,http://ipipip/udp/239.76.253.134:9000
-CHC动作电影,http://ipipip/udp/239.76.252.243:9000
 CHC动作电影,http://ipipip/udp/239.76.245.243:1234
+CHC动作电影,http://ipipip/udp/239.76.252.243:9000
 CHC高清电影,http://ipipip/udp/239.76.245.242:1234
 九画面,http://ipipip/udp/239.76.245.131:1234
 九画面,http://ipipip/udp/239.76.252.131:9000
