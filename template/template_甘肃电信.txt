@@ -14,8 +14,8 @@ CCTV12,http://ipipip/udp/239.255.30.182:8231
 CCTV13,http://ipipip/udp/239.255.29.28:8231
 CCTV14,http://ipipip/udp/239.255.30.183:8231
 CCTV15,http://ipipip/udp/239.255.30.68:8231
-CCTV16,http://ipipip/udp/239.255.30.80:8231
 CCTV16,http://ipipip/udp/239.255.30.88:8231
+CCTV16,http://ipipip/udp/239.255.30.80:8231
 CCTV17,http://ipipip/udp/239.255.30.96:8231
 湖南卫视,http://ipipip/udp/239.255.30.136:8231
 浙江卫视,http://ipipip/udp/239.255.30.132:8231

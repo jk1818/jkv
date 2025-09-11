@@ -1,5 +1,5 @@
-CCTV1,http://ipipip/udp/239.77.1.17:5146
 CCTV1,http://ipipip/udp/239.77.1.144:5146
+CCTV1,http://ipipip/udp/239.77.1.17:5146
 CCTV2,http://ipipip/udp/239.77.1.158:5146
 CCTV3,http://ipipip/udp/239.77.0.169:5146
 CCTV4,http://ipipip/udp/239.77.1.163:5146
@@ -7,15 +7,15 @@ CCTV5,http://ipipip/udp/239.77.0.170:5146
 CCTV5+,http://ipipip/udp/239.77.0.87:5146
 CCTV5+,http://ipipip/udp/239.77.1.31:5146
 CCTV6,http://ipipip/udp/239.77.0.171:5146
-CCTV7,http://ipipip/udp/239.77.1.159:5146
 CCTV7,http://ipipip/udp/239.77.0.138:5146
+CCTV7,http://ipipip/udp/239.77.1.159:5146
 CCTV8,http://ipipip/udp/239.77.0.172:5146
 CCTV9,http://ipipip/udp/239.77.0.135:5146
-CCTV10,http://ipipip/udp/239.77.1.113:5146
 CCTV10,http://ipipip/udp/239.77.0.134:5146
+CCTV10,http://ipipip/udp/239.77.1.113:5146
 CCTV11,http://ipipip/udp/239.77.1.238:5146
-CCTV12,http://ipipip/udp/239.77.1.109:5146
 CCTV12,http://ipipip/udp/239.77.0.136:5146
+CCTV12,http://ipipip/udp/239.77.1.109:5146
 CCTV13,http://ipipip/udp/239.77.0.188:5146
 CCTV14,http://ipipip/udp/239.77.1.161:5146
 CCTV15,http://ipipip/udp/239.77.1.239:5146
