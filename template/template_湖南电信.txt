@@ -47,8 +47,10 @@ CCTV17,http://ipipip/udp/239.76.245.238:1234
 湖南卫视,http://ipipip/udp/239.76.253.101:9000
 湖南卫视,http://ipipip/udp/239.76.251.85:9000
 湖南卫视,http://ipipip/udp/239.76.253.100:9000
+湖南卫视,http://ipipip/udp/239.76.252.115:9000
 湖南卫视,http://ipipip/udp/239.76.246.101:1234
 湖南卫视,http://ipipip/udp/239.76.246.100:1234
+湖南卫视,http://ipipip/udp/239.76.245.115:1234
 浙江卫视,http://ipipip/udp/239.76.253.182:9000
 浙江卫视,http://ipipip/udp/239.76.246.182:1234
 东方卫视,http://ipipip/udp/239.76.253.186:9000
@@ -104,8 +106,8 @@ CCTV17,http://ipipip/udp/239.76.245.238:1234
 凤凰卫视中文台,http://ipipip/udp/239.76.253.134:9000
 凤凰卫视中文台,http://ipipip/udp/239.76.246.134:1234
 凤凰资讯,http://ipipip/udp/239.76.253.135:9000
-CHC动作电影,http://ipipip/udp/239.76.245.243:1234
 CHC动作电影,http://ipipip/udp/239.76.252.243:9000
+CHC动作电影,http://ipipip/udp/239.76.245.243:1234
 CHC高清电影,http://ipipip/udp/239.76.245.242:1234
 CHC家庭影院,http://ipipip/udp/239.76.252.241:9000
 CHC家庭影院,http://ipipip/udp/239.76.245.241:1234
@@ -125,7 +127,6 @@ CHC家庭影院,http://ipipip/udp/239.76.245.241:1234
 快乐垂钓,http://ipipip/udp/239.76.253.5:9000
 茶频道,http://ipipip/udp/239.76.252.239:9000
 湖南教育台,http://ipipip/udp/239.76.252.233:9000
-湖南卫视FHD,http://ipipip/udp/239.76.252.115:9000
 湖南经视FHD,http://ipipip/udp/239.76.252.116:9000
 湖南都市FHD,http://ipipip/udp/239.76.252.117:9000
 湖南电视剧FHD,http://ipipip/udp/239.76.252.118:9000
@@ -242,7 +243,6 @@ CGTN阿拉伯语,http://ipipip/udp/239.76.253.97:9000
 湖南教育台,http://ipipip/udp/239.76.245.233:1234
 快乐垂钓,http://ipipip/udp/239.76.246.5:1234
 茶频道,http://ipipip/udp/239.76.245.239:1234
-湖南卫视FHD,http://ipipip/udp/239.76.245.115:1234
 湖南电影FHD,http://ipipip/udp/239.76.245.119:1234
 湖南电视剧FHD,http://ipipip/udp/239.76.245.118:1234
 湖南经视FHD,http://ipipip/udp/239.76.245.116:1234
