@@ -106,8 +106,8 @@ CCTV17,http://ipipip/udp/239.76.245.238:1234
 凤凰卫视中文台,http://ipipip/udp/239.76.253.134:9000
 凤凰卫视中文台,http://ipipip/udp/239.76.246.134:1234
 凤凰资讯,http://ipipip/udp/239.76.253.135:9000
-CHC动作电影,http://ipipip/udp/239.76.245.243:1234
 CHC动作电影,http://ipipip/udp/239.76.252.243:9000
+CHC动作电影,http://ipipip/udp/239.76.245.243:1234
 CHC高清电影,http://ipipip/udp/239.76.245.242:1234
 CHC家庭影院,http://ipipip/udp/239.76.252.241:9000
 CHC家庭影院,http://ipipip/udp/239.76.245.241:1234
