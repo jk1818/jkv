@@ -4,8 +4,8 @@ CCTV2,http://ipipip/udp/239.77.1.158:5146
 CCTV3,http://ipipip/udp/239.77.0.169:5146
 CCTV4,http://ipipip/udp/239.77.1.163:5146
 CCTV5,http://ipipip/udp/239.77.0.170:5146
-CCTV5+,http://ipipip/udp/239.77.0.87:5146
 CCTV5+,http://ipipip/udp/239.77.1.31:5146
+CCTV5+,http://ipipip/udp/239.77.0.87:5146
 CCTV6,http://ipipip/udp/239.77.0.171:5146
 CCTV7,http://ipipip/udp/239.77.0.138:5146
 CCTV7,http://ipipip/udp/239.77.1.159:5146
@@ -69,8 +69,8 @@ CCTV-14高清,http://ipipip/udp/239.77.1.171:5146
 深圳卫视,http://ipipip/udp/239.77.0.130:5146
 广东卫视,http://ipipip/rtp/239.77.0.2:5146
 广东卫视,http://ipipip/udp/239.77.1.2:5146
-广东卫视,http://ipipip/udp/239.77.1.19:5146
 广东卫视,http://ipipip/udp/239.77.1.152:5146
+广东卫视,http://ipipip/udp/239.77.1.19:5146
 广东卫视,http://ipipip/udp/239.77.0.166:5146
 广西卫视,http://ipipip/udp/239.253.43.36:5146
 甘肃卫视,http://ipipip/udp/239.77.0.189:5146
