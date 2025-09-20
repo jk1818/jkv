@@ -1,11 +1,11 @@
 CCTV1,http://ipipip/rtp/225.1.8.1:8008
-CCTV1,http://ipipip/rtp/225.1.1.120:5002
 CCTV1,http://ipipip/rtp/225.1.8.33:8002
 CCTV1,http://ipipip/rtp/225.1.8.53:8060
 CCTV1,http://ipipip/rtp/225.1.8.81:8176
 CCTV1,http://ipipip/rtp/225.1.8.126:8002
 CCTV1,http://ipipip/rtp/225.1.8.194:4120
 CCTV1,http://ipipip/rtp/225.1.8.210:8068
+CCTV1,http://ipipip/rtp/225.1.1.120:5002
 CCTV2,http://ipipip/rtp/225.1.8.2:8084
 CCTV2,http://ipipip/rtp/225.1.1.133:5002
 CCTV3,http://ipipip/rtp/225.1.8.88:8000
