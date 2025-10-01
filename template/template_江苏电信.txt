@@ -13,8 +13,8 @@ CCTV9,http://ipipip/rtp/239.49.8.53:9814
 CCTV10,http://ipipip/rtp/239.49.8.134:6000
 CCTV10,http://ipipip/rtp/239.49.8.54:9818
 CCTV11,http://ipipip/rtp/239.49.1.11:6000
-CCTV12,http://ipipip/rtp/239.49.8.135:6000
 CCTV12,http://ipipip/rtp/239.49.8.55:9822
+CCTV12,http://ipipip/rtp/239.49.8.135:6000
 CCTV13,http://ipipip/rtp/239.49.1.13:6000
 CCTV14,http://ipipip/rtp/239.49.8.136:6000
 CCTV14,http://ipipip/rtp/239.49.8.56:9826
@@ -38,8 +38,8 @@ CCTV-15,http://ipipip/udp/239.49.0.15:8112
 江苏卫视,http://ipipip/rtp/239.49.8.138:6000
 江苏卫视,http://ipipip/rtp/239.49.8.16:9602
 安徽卫视,http://ipipip/rtp/239.49.8.204:6000
-重庆卫视,http://ipipip/rtp/239.49.8.149:6000
 重庆卫视,http://ipipip/rtp/239.49.8.57:9830
+重庆卫视,http://ipipip/rtp/239.49.8.149:6000
 四川卫视,http://ipipip/rtp/239.49.1.43:6000
 东南卫视,http://ipipip/rtp/239.49.1.45:6000
 深圳卫视,http://ipipip/rtp/239.49.8.145:6000
