@@ -1,5 +1,5 @@
-CCTV1,http://ipipip/rtp/229.58.190.151:5000
 CCTV1,http://ipipip/rtp/229.58.190.72:5000
+CCTV1,http://ipipip/rtp/229.58.190.151:5000
 CCTV2,http://ipipip/rtp/229.58.190.153:5000
 CCTV3,http://ipipip/rtp/229.58.190.24:5000
 CCTV4,http://ipipip/rtp/229.58.190.131:5000

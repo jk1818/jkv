@@ -2,6 +2,8 @@ CCTV1,http://ipipip/rtp/232.0.0.27:1234
 CCTV2,http://ipipip/rtp/232.0.0.135:1234
 CCTV3,http://ipipip/rtp/232.0.0.170:1234
 CCTV4,http://ipipip/rtp/232.0.0.201:1234
+CCTV4,http://ipipip/rtp/232.0.0.53:1234
+CCTV4,http://ipipip/rtp/232.0.0.59:1234
 CCTV5,http://ipipip/rtp/232.0.0.171:1234
 CCTV6,http://ipipip/rtp/232.0.0.172:1234
 CCTV7,http://ipipip/rtp/232.0.0.136:1234
@@ -86,8 +88,6 @@ CETV4,http://ipipip/rtp/232.0.0.239:1234
 上海金色学堂,http://ipipip/rtp/232.0.0.133:1234
 上海法治天地,http://ipipip/rtp/232.0.0.134:1234
 上海都市剧场,http://ipipip/rtp/232.0.0.149:1234
-CCTV-4欧洲,http://ipipip/rtp/232.0.0.53:1234
-CCTV-4美洲,http://ipipip/rtp/232.0.0.59:1234
 CGTN-英语,http://ipipip/rtp/232.0.0.188:1234
 CGTN-纪录,http://ipipip/rtp/232.0.0.198:1234
 CGTN-俄语,http://ipipip/rtp/232.0.0.28:1234

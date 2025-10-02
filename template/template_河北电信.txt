@@ -2,6 +2,8 @@ CCTV1,http://ipipip/rtp/239.254.200.45:8008
 CCTV2,http://ipipip/rtp/239.254.200.158:6000
 CCTV3,http://ipipip/rtp/239.254.201.152:7205
 CCTV3,http://ipipip/rtp/239.254.200.159:6000
+CCTV4,http://ipipip/rtp/239.254.201.206:4220
+CCTV4,http://ipipip/rtp/239.254.201.205:4220
 CCTV4,http://ipipip/rtp/239.254.200.190:6307
 CCTV5,http://ipipip/rtp/239.254.201.153:7206
 CCTV5+,http://ipipip/rtp/239.254.200.46:8004
@@ -124,8 +126,6 @@ CCTV4K超,http://ipipip/rtp/239.254.201.67:6000
 河南武术世界,http://ipipip/rtp/239.254.201.224:7229
 河南文物宝库,http://ipipip/rtp/239.254.201.227:7230
 河南梨园频道,http://ipipip/rtp/239.254.201.231:7228
-CCTV-4欧洲,http://ipipip/rtp/239.254.201.205:4220
-CCTV-4美洲,http://ipipip/rtp/239.254.201.206:4220
 CGTN英语,http://ipipip/rtp/239.254.200.12:8056
 CGTN记录,http://ipipip/rtp/239.254.201.208:4220
 CGTN西班牙语,http://ipipip/rtp/239.254.201.209:4220
