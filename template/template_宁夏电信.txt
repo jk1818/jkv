@@ -1,6 +1,8 @@
 CCTV1,http://ipipip/rtp/239.121.4.113:8636
 CCTV2,http://ipipip/rtp/239.121.4.155:8914
 CCTV3,http://ipipip/rtp/239.121.4.151:8890
+CCTV4,http://ipipip/rtp/239.121.4.123:8000
+CCTV4,http://ipipip/rtp/239.121.4.124:8002
 CCTV4,http://ipipip/rtp/239.121.4.134:8786
 CCTV5,http://ipipip/rtp/239.121.4.152:8896
 CCTV5+,http://ipipip/rtp/239.121.4.140:8852
@@ -52,8 +54,6 @@ CETV4,http://ipipip/rtp/239.121.4.199:9178
 上海纪实人文,http://ipipip/rtp/239.121.4.164:8968
 上海东方财经,http://ipipip/rtp/239.121.4.71:8400
 中国天气,http://ipipip/rtp/239.121.4.112:8654
-CCTV-4 美洲,http://ipipip/rtp/239.121.4.124:8002
-CCTV-4 欧洲,http://ipipip/rtp/239.121.4.123:8000
 CGTN阿拉伯语,http://ipipip/rtp/239.121.4.207:8026
 CGTN俄语,http://ipipip/rtp/239.121.4.208:8030
 CGTN法语,http://ipipip/rtp/239.121.4.206:8024
