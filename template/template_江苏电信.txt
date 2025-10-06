@@ -72,7 +72,6 @@ CCTV-15,http://ipipip/udp/239.49.0.15:8112
 天津卫视,http://ipipip/rtp/239.49.8.35:8620
 海南卫视,http://ipipip/rtp/239.49.1.41:6000
 新疆卫视,http://ipipip/udp/239.49.1.239:6000
-云南卫视,http://ipipip/rtp/239.49.1.235:6000
 西藏卫视,http://ipipip/udp/239.49.1.139:6000
 江苏城市频道,http://ipipip/rtp/239.49.8.107:8000
 江苏综艺频道,http://ipipip/rtp/239.49.8.108:8000
@@ -84,6 +83,7 @@ CCTV-15,http://ipipip/udp/239.49.0.15:8112
 江苏国际频道,http://ipipip/rtp/239.49.1.23:6000
 江苏财富天下,http://ipipip/rtp/239.49.1.29:6000
 山西卫视,http://ipipip/rtp/239.49.1.51:6000
+云南卫视,http://ipipip/rtp/239.49.1.235:6000
 南京新闻综合,http://ipipip/rtp/239.49.0.25:8192
 南京科教频道,http://ipipip/rtp/239.49.0.183:9434
 南京生活频道,http://ipipip/rtp/239.49.0.26:8200
