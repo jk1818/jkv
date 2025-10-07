@@ -2,6 +2,8 @@ CCTV1,http://ipipip/rtp/239.253.92.83:8012
 CCTV2,http://ipipip/rtp/239.253.92.190:6065
 CCTV3,http://ipipip/rtp/239.253.92.191:6057
 CCTV4,http://ipipip/rtp/239.253.92.251:6141
+CCTV4,http://ipipip/rtp/239.253.93.192:6370
+CCTV4,http://ipipip/rtp/239.253.93.193:6371
 CCTV5,http://ipipip/rtp/239.253.92.181:6046
 CCTV5+,http://ipipip/rtp/239.253.92.82:8013
 CCTV6,http://ipipip/rtp/239.253.92.193:6058
@@ -145,8 +147,6 @@ CCTV4K超高清,http://ipipip/rtp/239.253.92.219:6228
 中华特产,http://ipipip/rtp/239.253.93.242:6420
 天元围棋,http://ipipip/rtp/239.253.93.211:6389
 CCTV4K超高清,http://ipipip/rtp/239.253.93.134:6631
-CCTV-4欧洲,http://ipipip/rtp/239.253.93.192:6370
-CCTV-4美洲,http://ipipip/rtp/239.253.93.193:6371
 CGTN英语,http://ipipip/rtp/239.253.92.15:8011
 CGTN纪录,http://ipipip/rtp/239.253.93.195:6373
 CGTN西班牙语,http://ipipip/rtp/239.253.93.196:6374
