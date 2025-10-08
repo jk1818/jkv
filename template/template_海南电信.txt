@@ -14,8 +14,8 @@ CCTV12,http://ipipip/rtp/239.253.64.97:5140
 CCTV13,http://ipipip/rtp/239.253.64.59:5140
 CCTV14,http://ipipip/rtp/239.253.64.115:5140
 CCTV15,http://ipipip/rtp/239.253.64.72:5140
-CCTV16,http://ipipip/rtp/239.253.64.126:5140
 CCTV16,http://ipipip/rtp/239.253.64.251:5140
+CCTV16,http://ipipip/rtp/239.253.64.126:5140
 CCTV17,http://ipipip/rtp/239.253.64.67:5140
 湖南卫视,http://ipipip/rtp/239.253.64.114:5140
 浙江卫视,http://ipipip/rtp/239.253.64.206:5140
