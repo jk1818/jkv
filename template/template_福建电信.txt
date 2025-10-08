@@ -14,8 +14,8 @@ CCTV11,http://ipipip/rtp/239.61.2.21:8120
 CCTV12,http://ipipip/rtp/239.61.2.177:9050
 CCTV13,http://ipipip/rtp/239.61.2.23:8132
 CCTV14,http://ipipip/rtp/239.61.2.178:9056
-CCTV15,http://ipipip/rtp/239.61.2.25:8144
 CCTV17,http://ipipip/rtp/239.61.3.9:9572
+CCTV-15,http://ipipip/rtp/239.61.2.25:8144
 湖南卫视,http://ipipip/rtp/239.61.2.31:8180
 浙江卫视,http://ipipip/rtp/239.61.2.29:8168
 东方卫视,http://ipipip/rtp/239.61.2.28:8162
