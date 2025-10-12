@@ -1,9 +1,9 @@
 CCTV1,http://ipipip/rtp/232.0.0.27:1234
 CCTV2,http://ipipip/rtp/232.0.0.135:1234
 CCTV3,http://ipipip/rtp/232.0.0.170:1234
-CCTV4,http://ipipip/rtp/232.0.0.53:1234
-CCTV4,http://ipipip/rtp/232.0.0.201:1234
 CCTV4,http://ipipip/rtp/232.0.0.59:1234
+CCTV4,http://ipipip/rtp/232.0.0.201:1234
+CCTV4,http://ipipip/rtp/232.0.0.53:1234
 CCTV5,http://ipipip/rtp/232.0.0.171:1234
 CCTV6,http://ipipip/rtp/232.0.0.172:1234
 CCTV7,http://ipipip/rtp/232.0.0.136:1234

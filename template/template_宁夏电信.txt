@@ -1,9 +1,9 @@
 CCTV1,http://ipipip/rtp/239.121.4.113:8636
 CCTV2,http://ipipip/rtp/239.121.4.155:8914
 CCTV3,http://ipipip/rtp/239.121.4.151:8890
-CCTV4,http://ipipip/rtp/239.121.4.123:8000
-CCTV4,http://ipipip/rtp/239.121.4.134:8786
 CCTV4,http://ipipip/rtp/239.121.4.124:8002
+CCTV4,http://ipipip/rtp/239.121.4.134:8786
+CCTV4,http://ipipip/rtp/239.121.4.123:8000
 CCTV5,http://ipipip/rtp/239.121.4.152:8896
 CCTV5+,http://ipipip/rtp/239.121.4.140:8852
 CCTV6,http://ipipip/rtp/239.121.4.153:8902
