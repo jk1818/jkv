@@ -1,9 +1,9 @@
 CCTV1,http://ipipip/rtp/238.255.2.91:5999
 CCTV2,http://ipipip/rtp/238.255.2.11:5999
 CCTV3,http://ipipip/rtp/238.255.2.133:5999
+CCTV4,http://ipipip/rtp/238.255.2.214:5999
 CCTV4,http://ipipip/rtp/238.255.2.92:5999
 CCTV4,http://ipipip/rtp/238.255.2.213:5999
-CCTV4,http://ipipip/rtp/238.255.2.214:5999
 CCTV5,http://ipipip/rtp/238.255.2.134:5999
 CCTV5+,http://ipipip/rtp/238.255.2.185:5999
 CCTV6,http://ipipip/rtp/238.255.2.135:5999

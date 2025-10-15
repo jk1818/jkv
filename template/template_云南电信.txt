@@ -1,13 +1,14 @@
 CCTV1,http://ipipip/rtp/239.200.200.2:8080
+CCTV1,http://ipipip/rtp/239.200.200.117:8712
 CCTV1,http://ipipip/rtp/239.200.201.45:8800
+CCTV1,http://ipipip/rtp/239.200.200.14:8852
 CCTV1,http://ipipip/udp/239.200.201.135:8880
 CCTV1,http://ipipip/udp/239.200.200.70:8008
 CCTV1,http://ipipip/udp/239.200.200.95:8044
-CCTV1,http://ipipip/rtp/239.200.200.14:8852
-CCTV1,http://ipipip/rtp/239.200.200.117:8712
 CCTV2,http://ipipip/udp/239.200.200.104:8084
 CCTV3,http://ipipip/udp/239.200.200.18:9008
 CCTV4,http://ipipip/rtp/239.200.201.180:4220
+CCTV4,http://ipipip/rtp/239.200.201.181:4220
 CCTV4,http://ipipip/udp/239.200.200.128:8652
 CCTV5,http://ipipip/udp/239.200.200.20:9016
 CCTV5+,http://ipipip/rtp/239.200.200.9:8004
@@ -82,7 +83,6 @@ CCTV4K超高清,http://ipipip/rtp/239.200.200.202:8784
 山西卫视,http://ipipip/rtp/239.200.200.56:8292
 陕西卫视,http://ipipip/rtp/239.200.200.55:8288
 山东教育卫视,http://ipipip/rtp/239.200.201.77:8132
-CCTV-4美洲,http://ipipip/rtp/239.200.201.181:4220
 CETV1,http://ipipip/udp/239.200.201.49:8756
 CETV2,http://ipipip/rtp/239.200.201.121:8780
 CETV4,http://ipipip/rtp/239.200.201.122:8784
