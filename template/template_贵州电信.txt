@@ -1,7 +1,9 @@
 CCTV1,http://ipipip/rtp/238.255.2.91:5999
 CCTV2,http://ipipip/rtp/238.255.2.11:5999
 CCTV3,http://ipipip/rtp/238.255.2.133:5999
+CCTV4,http://ipipip/rtp/238.255.2.214:5999
 CCTV4,http://ipipip/rtp/238.255.2.92:5999
+CCTV4,http://ipipip/rtp/238.255.2.213:5999
 CCTV5,http://ipipip/rtp/238.255.2.134:5999
 CCTV5+,http://ipipip/rtp/238.255.2.185:5999
 CCTV6,http://ipipip/rtp/238.255.2.135:5999
@@ -94,8 +96,6 @@ CCTV女性时尚,http://ipipip/rtp/238.255.2.27:5999
 CCTV世界地理,http://ipipip/rtp/238.255.2.26:5999
 CCTV央视台球,http://ipipip/rtp/238.255.2.224:5999
 CCTV央视文化精品,http://ipipip/rtp/238.255.2.32:5999
-CCTV-4欧洲,http://ipipip/rtp/238.255.2.213:5999
-CCTV-4美洲,http://ipipip/rtp/238.255.2.214:5999
 CETV1,http://ipipip/rtp/238.255.2.105:5999
 CETV2,http://ipipip/rtp/238.255.2.221:5999
 CETV4,http://ipipip/rtp/238.255.2.222:5999
