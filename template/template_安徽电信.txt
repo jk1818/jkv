@@ -20,8 +20,8 @@ CCTV17,http://ipipip/rtp/238.1.78.178:7296
 东方卫视,http://ipipip/rtp/238.1.78.163:7176
 北京卫视,http://ipipip/rtp/238.1.78.162:7168
 江苏卫视,http://ipipip/rtp/238.1.78.165:7192
-安徽卫视,http://ipipip/rtp/238.1.79.27:4328
 安徽卫视,http://ipipip/rtp/238.1.78.150:7072
+安徽卫视,http://ipipip/rtp/238.1.79.27:4328
 重庆卫视,http://ipipip/rtp/238.1.78.31:6176
 四川卫视,http://ipipip/rtp/238.1.78.30:6168
 东南卫视,http://ipipip/rtp/238.1.78.22:6104
