@@ -6,7 +6,7 @@ CCTV4,http://ipipip/rtp/239.254.201.206:4220
 CCTV4,http://ipipip/rtp/239.254.200.190:6307
 CCTV4,http://ipipip/rtp/239.254.201.205:4220
 CCTV5,http://ipipip/rtp/239.254.201.153:7206
-CCTV5+,http://ipipip/rtp/239.254.200.46:8004
+CCTV5,http://ipipip/rtp/239.254.200.46:8004
 CCTV6,http://ipipip/rtp/239.254.201.154:7207
 CCTV8,http://ipipip/rtp/239.254.201.155:7208
 CCTV9,http://ipipip/rtp/239.254.200.59:8112
