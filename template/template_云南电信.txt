@@ -1,7 +1,7 @@
-CCTV1,http://ipipip/rtp/239.200.200.14:8852
-CCTV1,http://ipipip/rtp/239.200.200.2:8080
 CCTV1,http://ipipip/rtp/239.200.201.45:8800
+CCTV1,http://ipipip/rtp/239.200.200.2:8080
 CCTV1,http://ipipip/rtp/239.200.200.117:8712
+CCTV1,http://ipipip/rtp/239.200.200.14:8852
 CCTV1,http://ipipip/udp/239.200.201.135:8880
 CCTV1,http://ipipip/udp/239.200.200.70:8008
 CCTV1,http://ipipip/udp/239.200.200.95:8044
