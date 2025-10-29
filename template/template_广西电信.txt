@@ -27,7 +27,6 @@ CCTV17,http://ipipip/udp/239.81.0.228:4056
 深圳卫视,http://ipipip/udp/239.81.0.103:4056
 广东卫视,http://ipipip/udp/239.81.0.104:4056
 广西卫视,http://ipipip/udp/239.81.0.107:4056
-厦门卫视,http://ipipip/udp/239.81.0.212:4056
 甘肃卫视,http://ipipip/udp/239.81.0.207:4056
 贵州卫视,http://ipipip/udp/239.81.0.95:4056
 河北卫视,http://ipipip/udp/239.81.0.94:4056
@@ -58,6 +57,7 @@ CCTV17,http://ipipip/udp/239.81.0.228:4056
 陕西卫视,http://ipipip/udp/239.81.0.89:4056
 山西卫视,http://ipipip/udp/239.81.0.49:4056
 大湾区卫视,http://ipipip/udp/239.81.0.32:4056
+厦门卫视,http://ipipip/udp/239.81.0.212:4056
 山东教育卫视,http://ipipip/udp/239.81.0.93:4056
 嘉佳卡通,http://ipipip/udp/239.81.0.64:4056
 卡酷动画,http://ipipip/udp/239.81.0.62:4056
