@@ -1,9 +1,9 @@
 CCTV1,http://ipipip/rtp/238.255.2.91:5999
 CCTV2,http://ipipip/rtp/238.255.2.11:5999
 CCTV3,http://ipipip/rtp/238.255.2.133:5999
+CCTV4,http://ipipip/rtp/238.255.2.214:5999
 CCTV4,http://ipipip/rtp/238.255.2.213:5999
 CCTV4,http://ipipip/rtp/238.255.2.92:5999
-CCTV4,http://ipipip/rtp/238.255.2.214:5999
 CCTV5,http://ipipip/rtp/238.255.2.134:5999
 CCTV5+,http://ipipip/rtp/238.255.2.185:5999
 CCTV6,http://ipipip/rtp/238.255.2.135:5999
@@ -13,8 +13,8 @@ CCTV9,http://ipipip/rtp/238.255.2.155:5999
 CCTV10,http://ipipip/rtp/238.255.2.13:5999
 CCTV11,http://ipipip/rtp/238.255.2.14:5999
 CCTV12,http://ipipip/rtp/238.255.2.15:5999
-CCTV13,http://ipipip/rtp/238.255.2.16:5999
 CCTV13,http://ipipip/rtp/238.255.2.218:5999
+CCTV13,http://ipipip/rtp/238.255.2.16:5999
 CCTV14,http://ipipip/rtp/238.255.2.17:5999
 CCTV15,http://ipipip/rtp/238.255.2.18:5999
 CCTV17,http://ipipip/rtp/238.255.2.137:5999
