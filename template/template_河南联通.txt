@@ -32,8 +32,8 @@ CCTV17,http://ipipip/rtp/225.1.4.226:2506
 甘肃卫视,http://ipipip/rtp/225.1.4.42:1071
 贵州卫视,http://ipipip/rtp/225.1.4.122:1302
 河北卫视,http://ipipip/rtp/225.1.4.123:1304
-河南卫视,http://ipipip/rtp/225.1.4.254:1300
 河南卫视,http://ipipip/rtp/225.1.4.98:1127
+河南卫视,http://ipipip/rtp/225.1.4.254:1300
 黑龙江卫视,http://ipipip/rtp/225.1.4.91:1120
 湖北卫视,http://ipipip/rtp/225.1.4.89:1118
 江西卫视,http://ipipip/rtp/225.1.4.139:1305
