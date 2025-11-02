@@ -1,9 +1,9 @@
 CCTV1,http://ipipip/rtp/225.1.4.73:1102
 CCTV2,http://ipipip/rtp/225.1.4.74:1103
 CCTV3,http://ipipip/rtp/225.1.4.158:1194
-CCTV4,http://ipipip/rtp/225.1.5.31:1342
 CCTV4,http://ipipip/rtp/225.1.5.32:1343
 CCTV4,http://ipipip/rtp/225.1.5.30:1333
+CCTV4,http://ipipip/rtp/225.1.5.31:1342
 CCTV5,http://ipipip/rtp/225.1.4.159:1195
 CCTV5+,http://ipipip/rtp/225.1.4.75:1104
 CCTV6,http://ipipip/rtp/225.1.4.160:1196
