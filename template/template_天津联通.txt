@@ -115,3 +115,4 @@ CGTN纪录,http://ipipip/rtp/225.1.1.55:5002
 天津滨海广播,http://ipipip/rtp/225.1.1.178:5002
 天津音乐广播,http://ipipip/rtp/225.1.1.179:5002
 天津农村广播,http://ipipip/rtp/225.1.1.180:5002
+江西卫视,http://ipipip/rtp/225.1.1.9:8164
